@@ -1,4 +1,3 @@
-# 귀찮아서 그냥 함수 2개 씀
 # 상하좌우 탐색 후, 0과 N 사이에 있고 색깔이 같으면 추가 탐색
 import sys
 sys.setrecursionlimit(10**6)
